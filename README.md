@@ -3,7 +3,7 @@
 
 ## Tutorials
 
-* [Tutorial](/tutorial)
+* [Tutorial](/girls_day_tutorial/tutorial)
 
 ## Dieses Projekt bearbeiten
 
