@@ -1,14 +1,9 @@
 
 > Diese Seite bei [https://gribbib.github.io/girls_day_tutorial/](https://gribbib.github.io/girls_day_tutorial/) öffnen
 
-## Als Erweiterung verwenden
+## Tutorials
 
-Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
-
-* öffne [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* klicke auf **Neues Projekt**
-* klicke auf **Erweiterungen** unter dem Zahnrad-Menü
-* nach **https://github.com/gribbib/girls_day_tutorial** suchen und importieren
+* [Tutorial](/tutorial)
 
 ## Dieses Projekt bearbeiten
 
