@@ -3,7 +3,7 @@
 
 ## Tutorials
 
-* [Tutorial](/girls_day_tutorial/tutorial)
+* [Tutorial](/girls_day_tutorial/tutorial) [start](https://makecode.microbit.org/#tutorial:github:gribbib/girls_day_tutorial/tutorial)
 
 ## Dieses Projekt bearbeiten
 
